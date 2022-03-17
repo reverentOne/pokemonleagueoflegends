@@ -1,4 +1,4 @@
-# pokeemerald Expansion
+# pokeemerald Expansion-soon to be league game
 
 ## What is the pokeemerald Expansion?
 
